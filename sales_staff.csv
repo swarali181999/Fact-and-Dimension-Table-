@@ -1,0 +1,11 @@
+sales_person_ID,sales_person_name,gender,manufacturer_ID,model_ID,selldate,branch_location
+36912151,"Floyd Clark",M,21200,2100,2018-07-02,East
+61218243,"Morris Morales",M,11220,1310,2018-07-05,East
+61218243,"Morris Morales",M,21200,2009,2018-07-10,East
+24861012,"Pamela Schultz",F,30910,3101,2018-07-13,West
+36912151,"Floyd Clark",M,30910,3008,2018-07-15,East
+48121620,"Kurt Neal",M,21200,2001,2018-07-19,West
+24861012,"Pamela Schultz",F,21200,2001,2018-07-20,West
+48121620,"Kurt Neal",M,60710,6304,2018-07-23,West
+36912151,"Floyd Clark",M,30910,3710,2018-07-24,East
+61218243,"Morris Morales",M,60710,6009,2018-07-27,East

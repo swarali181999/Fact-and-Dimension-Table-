@@ -1,0 +1,11 @@
+customer_ID,customer_Name,manufacturer_ID,model_ID,selldate,address,location,contact
+71115192,"Susie Bowman",21200,2100,2018-07-02,"585 Meadow Lane Oakland",Oakland,626-555-0150
+13579111,"Marlon Caldwell",11220,1310,2018-07-05,"1037 North Avenue",Plattsmouth,510-555-0143
+37111519,"Alfred Vasquez",21200,2009,2018-07-10,"1585 Harvest Lane",Missouri,417-555-0171
+59131721,"Katie Welch",30910,3101,2018-07-13,"3688 Bicetown Road","New York",631-555-0151
+71115192,"Susie Bowman",30910,3008,2018-07-15,"585 Meadow Lane Oakland",Oakland,626-555-0150
+91317212,"Terrance Cruz",21200,2001,2018-07-19,"1450 Olive Street",Toledo,734-555-0173
+37111519,"Alfred Vasquez",21200,2001,2018-07-20,"1585 Harvest Lane",Missouri,417-555-0171
+11151923,"Courtney Rogers",60710,6304,2018-07-23,"2164 Southside Lane","Los Angeles",323-555-0136
+13172125,"Melissa Shelton",30910,3710,2018-07-24,"3970 Freed Drive",Stockton,604-555-0101
+15192325,"Bethany Raeys",60710,6009,2018-07-27,"1611 Bottom Lane",Buffalo,716-555-0168
